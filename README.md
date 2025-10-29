@@ -4,7 +4,6 @@
 <ul>🎨 Apaixonada por Front-End, onde design e tecnologia se encontram. </ul>
 <ul>🌎 Sempre buscando aprender mais e evoluir como desenvolvedora </ul>
 
-
 ---
 
 ## Skills 👩‍💻
@@ -23,6 +22,7 @@ Estudando e aprimorando:
 <code><img height="32" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></code>
 <code><img height="32" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/></code>
 <code><img height="32" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javaScript"/></code>
+
 ---
 
 ## GitHub Stats ⭐
