@@ -3,7 +3,7 @@
 - Técnica de Informática formada pelo IFRJ  
 - Graduanda em Engenharia da Computação (2º semestre) no IFRJ  
 - Apaixonada por Front-End, onde design e tecnologia se encontram  
-- Sempre aprendendo e evoluindo como desenvolvedora 💻
+- Sempre aprendendo e evoluindo como desenvolvedora 
 
 ---
 
