@@ -28,5 +28,11 @@ Estudando e aprimorando:
 
 ## GitHub Stats ⭐
 
-[![card](https://github-readme-stats.vercel.app/api?username=S4naju&theme=material-palenight&show_icons=true&card_width=300)](https://github.com/anuraghazra/github-readme-stats)
-[![S4naju](https://github-readme-stats.vercel.app/api/top-langs/?username=S4naju&layout=compact&hide=html&theme=material-palenight&card_width=300)](https://github.com/anuraghazra/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=S4naju&theme=material-palenight&show_icons=true&card_width=300&commits_year=2025&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+[![S4naju](https://github-readme-stats.vercel.app/api/top-langs/?username=S4naju&layout=compact&hide=html&theme=material-palenight&card_width=300&commits_year=2025)](https://github.com/anuraghazra/github-readme-stats)
+
+## Onde me encontrar 📫
+
+<!-- <a href="www.linkedin.com/in/anajuliasampaiomonteiro" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
+<a href="mailto:sampaioanajuliaa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/S4naju" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
