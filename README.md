@@ -1,7 +1,7 @@
 ## Olá, eu sou a Ana Julia ✨
 
 - Técnica de Informática formada pelo IFRJ 
-- Graduanda em Engenharia da Computação (2º semestre) no IFRJ  
+- Graduanda em Engenharia da Computação (3º semestre) no IFRJ  
 - Interesse em desenvolvimento web (principalmente front-end) e desenvolvimento de software
 - Sempre aprendendo e evoluindo como desenvolvedora 
 
