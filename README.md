@@ -29,12 +29,7 @@ Estudando e aprimorando:
 ## GitHub Stats ⭐
 [![card](https://github-stats-extended.vercel.app/api?username=S4naju&theme=material-palenight&show_icons=true&card_width=300&rank_icon=github)]
 
-![Top Langs](https://github-stats-extended.vercel.app//?username=S4naju&layout=compact&theme=material-palenight)
-
-with:
-  card: stats
-  options: username=S4naju_icons=true&hide_rank=true&bg_color=0D1117
-  token: ${{ secrets.GITHUB_TOKEN }}
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=S4naju&layout=compact&langs_count=6&hide_values=true&theme=material-palenight)](https://github-stats-extended.vercel.app/api/top-langs?username=S4naju&layout=compact&langs_count=6&hide_values=true&theme=material-palenight)
 
 ---
 
