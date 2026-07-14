@@ -27,11 +27,14 @@ Estudando e aprimorando:
 ---
 
 ## GitHub Stats ⭐
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=S4naju)](https://github.com/stats-organization/github-stats-extended)
-[![card](https://github-stats-extended.vercel.app/api?username=S4naju&theme=material-palenight&show_icons=true&card_width=300&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+[![card](https://github-stats-extended.vercel.app/api?username=S4naju&theme=material-palenight&show_icons=true&card_width=300&rank_icon=github)]
 
 ![Top Langs](https://github-stats-extended.vercel.app//?username=S4naju&layout=compact&theme=material-palenight)
 
+with:
+  card: stats
+  options: username=S4naju_icons=true&hide_rank=true&bg_color=0D1117
+  token: ${{ secrets.GITHUB_TOKEN }}
 
 ---
 
