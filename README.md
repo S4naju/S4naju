@@ -27,8 +27,7 @@ Estudando e aprimorando:
 ---
 
 ## GitHub Stats ⭐
-[![card](https://github-stats-extended.vercel.app/api?username=S4naju&theme=material-palenight&show_icons=true&card_width=300&rank_icon=github)]
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=S4naju&rank_icon=github&show_icons=true&include_all_commits=true&theme=material-palenight)](https://github-stats-extended.vercel.app/api?username=S4naju&rank_icon=github&show_icons=true&include_all_commits=true&theme=material-palenight)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=S4naju&layout=compact&langs_count=6&hide_values=true&theme=material-palenight)](https://github-stats-extended.vercel.app/api/top-langs?username=S4naju&layout=compact&langs_count=6&hide_values=true&theme=material-palenight)
 
 ---
